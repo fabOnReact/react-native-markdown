@@ -22,7 +22,7 @@ The ScreenReader announces `disabled`, but the `Switch` is **NOT** disabled.
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>
 
-<video src="" width="1000" />
+<video src="https://user-images.githubusercontent.com/24992535/152745289-1be0a82f-41cc-4729-a89a-8b40fcb35afa.mp4" width="1000" />
 
 </p>
 </details>

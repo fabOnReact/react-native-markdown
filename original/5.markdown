@@ -19,7 +19,7 @@ The Switch is **not** disabled.
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>
 
-<video src="https://user-images.githubusercontent.com/24992535/152745270-422c5a59-f9b2-416a-9bde-d655de12a771.mp4" width="1000" />
+<video src="" width="1000" />
 
 </p>
 </details>
