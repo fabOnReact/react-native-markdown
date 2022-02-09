@@ -25,16 +25,8 @@ The onPress handler is disabled.
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>
 
-<video src="" width="1000" />
+<video src="https://user-images.githubusercontent.com/24992535/153145503-220619c3-4008-485d-9295-e0b623a856fc.mp4" width="1000" />
 
 </p>
 </details>
 
-<video src="https://user-images.githubusercontent.com/24992535/153145503-220619c3-4008-485d-9295-e0b623a856fc.mp4" width="1000" />
-<video src="https://user-images.githubusercontent.com/24992535/153145525-80b6a10b-c1b3-44bc-9056-9b8f6cd533f9.mp4" width="1000" />
-<video src="https://user-images.githubusercontent.com/24992535/153145535-29aeaedc-f7d2-4471-b756-2b5765a7f8ea.mp4" width="1000" />
-<video src="https://user-images.githubusercontent.com/24992535/153145546-2b945cef-20e5-47cd-b402-4bde941376b2.mp4" width="1000" />
-<video src="https://user-images.githubusercontent.com/24992535/153145556-9f2d9f33-1adc-4806-8b24-cbb6c4abab75.mp4" width="1000" />
-<video src="https://user-images.githubusercontent.com/24992535/153145560-71dc56d2-f418-467d-98ca-6b51c2c43e69.mp4" width="1000" />
-<video src="https://user-images.githubusercontent.com/24992535/153145570-8c2491ca-74ea-48cd-8a22-87a2655d80ac.mp4" width="1000" />
-<video src="https://user-images.githubusercontent.com/24992535/153145576-25d706e5-31b6-4545-b969-3f20f7c48f8e.mp4" width="1000" />
