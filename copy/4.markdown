@@ -14,6 +14,7 @@ Test Cases
 **Expected/Actual Result**:
 - The ScreenReader does **not** announce `disabled`.
 - The `Text` is not **disabled**. Users are allowed to interact with the slider.
+- The onPress handler is disabled.
 
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>

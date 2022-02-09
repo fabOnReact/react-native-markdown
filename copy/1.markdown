@@ -13,6 +13,7 @@ Test Cases
 
 **Expected/Actual Result**:
 The ScreenReader should announce `disabled` when the focus moves to the `Text`.
+The onPress handler is disabled.
 
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>

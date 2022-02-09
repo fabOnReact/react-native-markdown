@@ -16,6 +16,7 @@ Test Cases
 **Expected/Actual Result**:
 - The Text is disabled
 - The ScreenReader announces `disabled`.
+- The onPress handler is disabled.
 
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>
