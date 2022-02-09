@@ -28,3 +28,9 @@ replace Switch with Text in all buffers
 ```
 bufdo %s/Switch/Text/gce
 ```
+
+5) record videos
+6) upload to github
+7) save links
+8) generate video tags
+9) replace video tags
