@@ -1,6 +1,6 @@
 Test Cases
 
-5. Switch has `disabled={false}` `accessibilityState={{disabled:true}}`
+5. Text has `disabled={false}` `accessibilityState={{disabled:true}}`
 
 <details><summary>CLICK TO OPEN SOURCECODE</summary>
 <p>
@@ -14,7 +14,7 @@ Full SourceCode Available at https://github.com/fabriziobertoglio1987/ReactNativ
 </details>
 
 **Expected/Actual Result**:
-The Switch is **not** disabled. 
+The Text is **not** disabled. 
 
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>

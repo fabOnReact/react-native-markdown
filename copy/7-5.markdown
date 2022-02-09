@@ -1,6 +1,6 @@
 Test Cases
 
-7.5 Switch has `disabled={false}` and `accessibilityState={{disabled:true}}` (on main branch)
+7.5 Text has `disabled={false}` and `accessibilityState={{disabled:true}}` (on main branch)
 
 <details><summary>CLICK TO OPEN SOURCECODE</summary>
 <p>
@@ -14,10 +14,10 @@ Full SourceCode Available at https://github.com/fabriziobertoglio1987/ReactNativ
 </details>
 
 **Expected Result**:
-The Switch is disabled. ScreenReader should announce `disabled` when the focus moves to the `Switch`.
+The Text is disabled. ScreenReader should announce `disabled` when the focus moves to the `Text`.
 
 **Actual Result**:
-The ScreenReader announces `disabled`, but the `Switch` is **NOT** disabled.
+The ScreenReader announces `disabled`, but the `Text` is **NOT** disabled.
 
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>

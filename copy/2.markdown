@@ -1,6 +1,6 @@
 Test Cases
 
-2. Switch has `disabled`
+2. Text has `disabled`
 
 <details><summary>CLICK TO OPEN SOURCECODE</summary>
 <p>
@@ -16,7 +16,7 @@ Full SourceCode Available at https://github.com/fabriziobertoglio1987/ReactNativ
 
 
 **Expected/Actual Result**:
-- The Switch is disabled
+- The Text is disabled
 - The ScreenReader announces `disabled`.
 
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**

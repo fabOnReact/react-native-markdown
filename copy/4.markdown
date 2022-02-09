@@ -1,6 +1,6 @@
 Test Cases
 
-4. Switch has `accessibilityState={{disabled:false}}`
+4. Text has `accessibilityState={{disabled:false}}`
 
 <details><summary>CLICK TO OPEN SOURCECODE</summary>
 <p>
@@ -15,7 +15,7 @@ Full SourceCode Available at https://github.com/fabriziobertoglio1987/ReactNativ
 
 **Expected/Actual Result**:
 - The ScreenReader does **not** announce `disabled`.
-- The `Switch` is not **disabled**. Users are allowed to interact with the slider.
+- The `Text` is not **disabled**. Users are allowed to interact with the slider.
 
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>
