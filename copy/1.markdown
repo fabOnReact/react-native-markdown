@@ -19,7 +19,7 @@ The ScreenReader should announce `disabled` when the focus moves to the `Switch`
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>
 
-<video src="https://user-images.githubusercontent.com/24992535/152745229-233fdf60-2acb-4380-86d1-0b538a54987d.mp4" width="1000" />
+<video src="" width="1000" />
 
 </p>
 </details>

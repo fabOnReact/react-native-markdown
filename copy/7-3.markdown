@@ -26,7 +26,7 @@ Full SourceCode Available at https://github.com/fabriziobertoglio1987/ReactNativ
 **<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
 <p>
 
-<video src="https://user-images.githubusercontent.com/24992535/152745282-71c8cad3-8298-48c9-8a6b-308bbd650159.mp4" width="1000" />
+<video src="" width="1000" />
 
 </p>
 </details>

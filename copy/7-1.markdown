@@ -23,6 +23,6 @@ The ScreenReader does not announce `disabled` when the focus moves to the `Switc
 <p>
 
 
-<video src="https://user-images.githubusercontent.com/24992535/152745278-7d86131b-9866-446d-aaf7-05e8b2ecce71.mp4" width="1000" />
+<video src="" width="1000" />
 </p>
 </details>
