@@ -1,6 +1,7 @@
 update summary
 
-1) change Switch in Text
+1) change Switch in Text (pr and summary)
+
 ```
 %s/Switch/Text/g
 ```
