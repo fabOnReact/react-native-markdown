@@ -32,5 +32,15 @@ bufdo %s/Switch/Text/gce
 5) record videos
 6) upload to github
 7) save links
-8) generate video tags
+8) generate video tags (use macro)
 9) replace video tags
+10) update js examples (use macro to copy paste below code)
+```javascript
+<Text
+  style={styles.text}
+  onPress={() => console.warn('onPress')}
+  disabled
+  accessibilityState={{disabled: false}}>
+  This is a Text
+</Text>
+```
