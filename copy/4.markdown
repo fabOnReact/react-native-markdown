@@ -22,7 +22,7 @@ Test Cases
 - The `Text` is not **disabled**. Users are allowed to interact with the slider.
 - The onPress handler is disabled.
 
-**<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
+<details><summary>CLICK TO OPEN TESTS RESULTS</summary>
 <p>
 
 <video src="https://user-images.githubusercontent.com/24992535/153145546-2b945cef-20e5-47cd-b402-4bde941376b2.mp4" width="1000" />

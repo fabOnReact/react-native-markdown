@@ -27,7 +27,7 @@ Test Cases
 - Users **are allowed** to interact with the Text.
 - The ScreenReader announces the interactions but does not announce disabled after onFocus (the first interaction).
 
-**<details><summary>CLICK TO OPEN TESTS RESULTS</summary>**
+<details><summary>CLICK TO OPEN TESTS RESULTS</summary>
 <p>
 
 <video src="https://user-images.githubusercontent.com/24992535/153145570-8c2491ca-74ea-48cd-8a22-87a2655d80ac.mp4" width="1000" />
