@@ -16,7 +16,7 @@ update summary
 ga docs/tests/summary.markdown
 ```
 
-update tests
+4) update tests
 
 ```
 rm -f copy/*.markdown
@@ -24,5 +24,7 @@ cp original/*.markdown copy
 ```
 open all the 1.markdown till 7.5.markdown in buffer
 
-2) replace Switch with Text in all buffers
+replace Switch with Text in all buffers
+```
 bufdo %s/Switch/Text/gce
+```
