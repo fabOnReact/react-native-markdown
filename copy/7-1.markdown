@@ -9,6 +9,7 @@ Test Cases
 <Text
   style={styles.text}
   onPress={() => console.warn('onPress')}
+  disabled
   accessibilityState={{disabled: false}}>
   This is a Text
 </Text>
