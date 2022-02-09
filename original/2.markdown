@@ -5,8 +5,6 @@ Test Cases
 <details><summary>CLICK TO OPEN SOURCECODE</summary>
 <p>
 
-Full SourceCode Available at https://github.com/fabriziobertoglio1987/ReactNativeAwesomeProject/blob/switch-component-does-not-disable-click/App.js
-
 ```javascript
 ```
 
