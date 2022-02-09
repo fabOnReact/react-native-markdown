@@ -6,6 +6,12 @@ Test Cases
 <p>
 
 ```javascript
+<Text
+  style={styles.text}
+  onPress={() => console.warn('onPress')}
+  accessibilityState={{disabled: false}}>
+  This is a Text
+</Text>
 ```
 
 </p>
