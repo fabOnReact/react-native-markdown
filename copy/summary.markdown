@@ -8,11 +8,11 @@
 [7.3] Text has `accessibilityState={{disabled: true}}`
 [7.5] Text has `disabled={false}`  and `accessibilityState={{disabled:true}}`
 
-[1]:
-[2]:
-[3]:
-[4]:
-[5]:
-[7.1]:
-[7.3]:
-[7.5]:
+[1]: https://github.com/fabriziobertoglio1987/react-native-notes/issues/1#issuecomment-1033465424
+[2]: https://github.com/fabriziobertoglio1987/react-native-notes/issues/1#issuecomment-1033465631
+[3]: https://github.com/fabriziobertoglio1987/react-native-notes/issues/1#issuecomment-1033465706
+[4]: https://github.com/fabriziobertoglio1987/react-native-notes/issues/1#issuecomment-1033465755
+[5]: https://github.com/fabriziobertoglio1987/react-native-notes/issues/1#issuecomment-1033465813
+[7.1]: https://github.com/fabriziobertoglio1987/react-native-notes/issues/1#issuecomment-1033465874
+[7.3]: https://github.com/fabriziobertoglio1987/react-native-notes/issues/1#issuecomment-1033465961
+[7.5]: https://github.com/fabriziobertoglio1987/react-native-notes/issues/1#issuecomment-1033466018
