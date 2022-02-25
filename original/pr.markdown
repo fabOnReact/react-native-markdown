@@ -1,14 +1,14 @@
 ## Summary
 
-This issue fixes https://github.com/facebook/react-native/issues/30977.
+This issue fixes https://github.com/facebook/react-native/issues/30977. \
 The Pull Request was previously published by [intergalacticspacehighway][13] with https://github.com/facebook/react-native/pull/31666.
 
 The solution consists of:
 
-1. Adding Javascript logic in the [FlatList][14] component to add accessibility information (row and column position) for each FlatList cell.
+1. Adding Javascript logic in the [FlatList][14] component to add accessibility information (row and column position) for each FlatList cell. \
 The information are saved on the native side in the AccessibilityNodeInfo.RangeInfo and announced by TalkBack when changing row, column or page ([video example][12]).
 
-2. Adding Java logic in [ReactScrollView.java][10] and HorizontalScrollView to announce pages with TalkBack when scrolling up/down.
+2. Adding Java logic in [ReactScrollView.java][10] and HorizontalScrollView to announce pages with TalkBack when scrolling up/down. \
 The missing Android logic in [ReactScrollView.java][10] (see also the [GridView][11] example) responsible for announcing Page Scrolling with TalkBack.
 
 Relevant discussions https://github.com/fabriziobertoglio1987/react-native-notes/issues/6
@@ -20,8 +20,8 @@ Relevant discussions https://github.com/fabriziobertoglio1987/react-native-notes
 
 ## Test Plan
 
-[1]. TalkBack announces pages and cells with Horizontal Flatlist in the Paper Renderer ([link][1])
-[2]. TalkBack announces pages and cells with Vertical Flatlist in the Paper Renderer ([link][2])
+[1]. TalkBack announces pages and cells with Horizontal Flatlist in the Paper Renderer ([link][1]) \
+[2]. TalkBack announces pages and cells with Vertical Flatlist in the Paper Renderer ([link][2]) 
 
 [1]: https://github.com/fabriziobertoglio1987/react-native-notes/issues/6#issuecomment-1050452894
 [2]: https://github.com/fabriziobertoglio1987/react-native-notes/issues/6#issuecomment-1050462465
